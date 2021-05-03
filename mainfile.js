@@ -22,3 +22,6 @@ client.on('message', message => {
     else if (command == '2137')
         message.channel.send('amen')
 })
+
+client.login('ODM4ODc2NzIyNjY0ODMzMDQ0.YJBe1A.yEfytcNaft5M6vbcwQBDc98INt0')
+
